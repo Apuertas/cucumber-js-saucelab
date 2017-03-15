@@ -9,7 +9,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "http://github.com/sgarcias/Cucumber-SourceLabs.git"
+    "url": "https://github.com/Apuertas/cucumber-js-saucelab.git"
   },
   "scripts": {
     "single": "better-npm-run single"
