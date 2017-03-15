@@ -1,0 +1,5 @@
+.idea/
+node_modules/
+local.log
+screenshots
+npm-debug.log
