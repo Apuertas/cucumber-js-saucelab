@@ -2,9 +2,6 @@
   "name": "cucumber-js-saucelab",
   "description": "Cucumber-JS Integration with SauceLab.",
   "author": "Alex Puertas <alex.puertasroman@travelport.com>",
-  "contributors": [
-    "Sergio Garcia <sergio.garciasantos@travelport.com>"
-  ],
   "version": "1.0.0",
   "private": true,
   "repository": {
