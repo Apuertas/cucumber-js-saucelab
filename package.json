@@ -1,7 +1,7 @@
 {
   "name": "cucumber-js-saucelab",
   "description": "Cucumber-JS Integration with SauceLab.",
-  "author": "Alex Puertas <alex.puertasroman@travelport.com>",
+  "author": "Alex Puertas Román",
   "version": "1.0.0",
   "private": true,
   "repository": {
@@ -16,7 +16,7 @@
       "command": "node ./node_modules/cucumber/bin/cucumber.js features/single.feature",
       "env": {
         "SAUCE_USERNAME": "apuertas",
-        "SAUCE_ACCESS_KEY": "309d1375-ec22-42fc-9d86-11778e2b8284",
+        "SAUCE_ACCESS_KEY": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
         "browserName": "chrome",
         "platform": "Windows 10",
         "version": "56",
